@@ -102,3 +102,4 @@ const MakeChai:BaseChai = {
 type ChaiOrder1 = Omit <ChaiOrder , "price" >
  
 // the above code defines a type called ChaiOrder1 which is created using the Omit utility type. It excludes the price property from the ChaiOrder type. This means that ChaiOrder1 will have all the properties of ChaiOrder except for price. This can be useful when we want to create a new type that is similar to an existing type but without certain properties that are not relevant in a specific context.
+
