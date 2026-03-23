@@ -107,4 +107,4 @@ class chaiMaker {
     
     
     }
-}
+}//This design allows for better separation of concerns and makes it easier to test the chaiMaker class by mocking the Heater dependency.
