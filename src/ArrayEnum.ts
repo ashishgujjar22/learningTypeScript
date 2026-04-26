@@ -1,3 +1,4 @@
+//Array
 const chaiFlaovour : string[] = ['Masala', 'Ginger', 'Cardamom', 'Clove', 'Cinnamon', 'Pepper'];
 
 const chaiPrice : number[] = [10, 12, 15, 20, 25, 30];
